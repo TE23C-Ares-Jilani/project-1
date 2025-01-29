@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "e794bcf0-0df6-4e18-9759-4d20f78a7bf4",
+  "name": "Present",
+  "symbol": "bg_present",
+  "width": 40,
+  "height": 40,
+  "imageWidth": 320,
+  "imageHeight": 320,
+  "filename": "Present.png",
+  "tileColors": ""
+}

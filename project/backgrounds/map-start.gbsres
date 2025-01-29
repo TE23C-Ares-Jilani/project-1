@@ -8,5 +8,6 @@
   "imageWidth": 256,
   "imageHeight": 256,
   "filename": "Map-Start.png",
-  "tileColors": ""
+  "tileColors": "04400+",
+  "autoColor": false
 }

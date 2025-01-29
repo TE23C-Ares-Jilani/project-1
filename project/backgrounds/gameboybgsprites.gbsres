@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "d01d894a-52c9-4e54-94eb-61cea6b85bf3",
+  "name": "GameBoyBGSprites",
+  "symbol": "bg_gameboybgsprites",
+  "width": 26,
+  "height": 18,
+  "imageWidth": 208,
+  "imageHeight": 144,
+  "filename": "GameBoyBGSprites.png",
+  "tileColors": ""
+}

@@ -1,0 +1,101 @@
+{
+  "_resourceType": "sprite",
+  "id": "0099d178-4fed-4fd6-9417-ad86c9fbc274",
+  "name": "DungeonWallTileset",
+  "symbol": "sprite_dungeonwalltileset",
+  "numFrames": 7,
+  "filename": "DungeonWallTileset.png",
+  "checksum": "bdc8e2ad6ec6d1f224940ff68166a2a6d2ba2429",
+  "width": 112,
+  "height": 48,
+  "states": [
+    {
+      "id": "7dd878d0-525e-43f4-8c66-260a9a1ac56a",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "9a25acee-4800-4800-a319-84ae7a907659",
+          "frames": [
+            {
+              "id": "c4983a97-e5e3-4eed-b136-e379b369f869",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b381d614-47d1-4974-bcfe-6eb9732651e6",
+          "frames": [
+            {
+              "id": "b418513d-037f-4805-bb66-ec4cddbca476",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "33737835-8614-4c54-9c1a-6ea0d8bb8082",
+          "frames": [
+            {
+              "id": "101c8ac6-49d1-4dd0-987a-55332b6673da",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "45f21668-09dc-4263-bedb-a17a0a8af257",
+          "frames": [
+            {
+              "id": "755c5221-4a61-4b70-974c-bda4d0d80ba3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f0e90f90-e1da-4b88-b050-653c2ff89ded",
+          "frames": [
+            {
+              "id": "a02fef0a-053e-4395-bc91-9e8b9c94111f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "98581a00-4a48-4107-8787-6303dcb60f50",
+          "frames": [
+            {
+              "id": "dc66463e-7c43-4009-a476-22ee7e2dbc2d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e0c8eab1-bdca-43d9-808b-92549a1ffb65",
+          "frames": [
+            {
+              "id": "dcf7be4f-59c6-49ae-849e-6406920b85df",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c5dfc6ba-29f2-4aab-a9f0-e8a5355aa4f9",
+          "frames": [
+            {
+              "id": "73b6cfce-c9fc-48c1-b9a7-4db293a05e77",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15
+}

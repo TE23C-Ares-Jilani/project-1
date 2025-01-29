@@ -8,5 +8,6 @@
   "imageWidth": 256,
   "imageHeight": 256,
   "filename": "Right-1-Town.png",
-  "tileColors": ""
+  "tileColors": "05400+",
+  "autoColor": false
 }
